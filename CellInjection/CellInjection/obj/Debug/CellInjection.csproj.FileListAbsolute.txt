@@ -1,0 +1,10 @@
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\CellInjection\CellInjection\bin\Debug\CellInjection.exe.config
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\CellInjection\CellInjection\bin\Debug\CellInjection.exe
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\CellInjection\CellInjection\bin\Debug\CellInjection.pdb
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\CellInjection\CellInjection\obj\Debug\CellInjection.csprojResolveAssemblyReference.cache
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\CellInjection\CellInjection\obj\Debug\CellInjection.exe
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\CellInjection\CellInjection\obj\Debug\CellInjection.pdb
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\CellInjection\CellInjection\bin\Debug\alglibnet2.dll
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\Cell-Injection\CellInjection\CellInjection\bin\Debug\CellInjection.exe.config
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\Cell-Injection\CellInjection\CellInjection\obj\Debug\CellInjection.exe
+C:\Users\hdehghaniashkezar2\Box Sync\Personal\Independent Study\ICSI\C#\Cell-Injection\CellInjection\CellInjection\obj\Debug\CellInjection.pdb
